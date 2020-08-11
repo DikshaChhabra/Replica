@@ -1,0 +1,69 @@
+.root {
+  display: flex;
+  color: gray;
+}
+.blank {
+  flex: 0.4;
+  padding: 20px;
+}
+.application {
+  flex: 0.3;
+  text-align: right;
+  padding: 20px;
+}
+.delivery {
+  flex: 0.3;
+  padding: 20px;
+}
+
+.verses {
+  padding: 20px;
+  flex: 0.05;
+  text-align: center;
+  background-color: #524f4f;
+  color: gray;
+}
+.candidateSkillButton {
+  display: flex;
+  justify-content: flex-end;
+}
+.candidateSkill {
+  border: 1px solid gray;
+  padding: 10px 45px 10px 10px;
+  border-radius: 30px;
+  color: white;
+}
+.candidateScore {
+  border: 3px solid white;
+  border-radius: 50%;
+  width: 15px;
+  height: 20px;
+  text-align: center;
+  padding: 10px;
+  margin-left: -38px !important;
+  color: white;
+  background-color: #383737;
+}
+
+.businessSkill {
+  border: 1px solid gray;
+  padding: 10px 10px 10px 45px;
+  border-radius: 30px;
+  margin-left: -38px !important;
+  color: white;
+}
+
+.businessScore {
+  border: 3px solid white;
+  border-radius: 50%;
+  width: 15px;
+  height: 20px;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  background-color: #383737;
+  z-index: 1;
+}
+.businessSkillButton {
+  display: flex;
+}

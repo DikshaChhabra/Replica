@@ -1,0 +1,10 @@
+.rightHead {
+  width: calc(100vw - 300px);
+  padding: 5px 10px 5px;
+  color: #cecbcb;
+}
+.compareSection {
+  background-color: #222222;
+  width: calc(100% - 40px);
+  height: calc(100% - 36px);
+}

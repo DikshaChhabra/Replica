@@ -1,0 +1,25 @@
+.root {
+  display: flex;
+  justify-content: space-between;
+}
+.sectionName {
+  color: white;
+  flex: 0.4;
+  padding: 20px;
+}
+.compareField {
+  color: gray;
+  text-transform: uppercase;
+  padding: 20px;
+  flex: 0.3;
+}
+.candidate {
+  text-align: right;
+}
+.verses {
+  padding: 20px;
+  flex: 0.05;
+  text-align: center;
+  background-color: #524f4f;
+  color: gray;
+}

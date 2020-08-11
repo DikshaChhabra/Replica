@@ -1,0 +1,15 @@
+.breadCrumbs {
+  color: #5d5959;
+  margin-bottom: 20px !important;
+}
+.edit {
+  color: #1985c5;
+  margin-bottom: 10px !important;
+}
+.headName {
+  color: white;
+}
+.divider {
+  background-color: #5d5959 !important;
+  margin: 25px 0px !important;
+}

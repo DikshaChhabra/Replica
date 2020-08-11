@@ -1,0 +1,38 @@
+{
+  "delivery": [
+    {
+      "name": "AWS",
+      "number": "50%",
+      "candidateScore": "1",
+      "businessScore": "4"
+    },
+    {
+      "name": "MYSQL",
+      "number": "33%",
+      "candidateScore": "1",
+      "businessScore": "4"
+    },
+    {
+      "name": "MongoDB",
+      "number": "33%",
+      "candidateScore": "1",
+      "businessScore": "4"
+    }
+  ],
+  "application": [
+    {
+      "name": "Machine Learning",
+      "number": "85%",
+      "candidateScore": "1",
+      "businessScore": "4"
+    }
+  ],
+  "career": [
+    {
+      "name": "No Skills Matched",
+      "number": "N/A",
+      "candidateScore": "",
+      "businessScore": ""
+    }
+  ]
+}

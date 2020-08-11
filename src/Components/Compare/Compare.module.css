@@ -1,0 +1,11 @@
+.root {
+  background-color: #222222;
+  height: 100vh;
+  padding: 40px;
+}
+.compareSection {
+  display: flex;
+  height: calc(100% - 176px);
+  background-color: #383737;
+  margin: 25px -40px 0 -40px;
+}

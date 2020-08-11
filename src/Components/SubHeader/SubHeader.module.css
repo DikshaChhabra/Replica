@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+}
+.name {
+  display: flex;
+  background-color: #545151;
+  color: white;
+  padding: 10px 150px;
+  border-radius: 5px;
+}
